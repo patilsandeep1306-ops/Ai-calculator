@@ -1,0 +1,6 @@
+{
+  "name": "AI Calculator",
+  "description": "Smart AI-powered calculator with step-by-step math solver, natural language problem solving, and scientific calculation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
